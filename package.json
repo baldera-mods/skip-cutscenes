@@ -1,0 +1,16 @@
+{
+  "name": "skip-cutscenes",
+  "version": "1.0.0",
+  "description": "No more mashing Esc.",
+  "author": "meishu",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldera-mods/skip-cutscenes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baldera-mods/skip-cutscenes/issues"
+  },
+  "homepage": "https://github.com/baldera-mods/skip-cutscenes#readme"
+}
